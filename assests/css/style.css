@@ -55,3 +55,14 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.screenshots {
+  width: 150px; 
+  height: 150px; 
+}
+
+.piclabel {
+  text-align: center; 
+  font-size: 30px; 
+  color: black; 
+}
